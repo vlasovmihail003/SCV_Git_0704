@@ -15,6 +15,8 @@ After that you need to change directory:
 Or, if you authorised on **GitHub**, you can copy needed project to your repository on site with comand `fork`.
 
 ## Push&Pull
-Comand `git pull` makes copy of outsoursed repository to your local. Mane point is merging your actual data with new information. 
++ Comand `git pull` makes copy of outsoursed repository to your local. Mane point is merging your actual data with new information. 
 
-`git push` makes your changes delivered to outsoursed repository. You must be authorised in site, where repository is.
++ `git push` makes your changes delivered to outsoursed repository. You must be authorised in site, where repository is.
+
++ Another way is `pull request`. When you on site **GitHub**, you can push this botton and remove your data to outsoursed repository
