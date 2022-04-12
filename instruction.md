@@ -5,7 +5,16 @@
 
 ## Fork&Clone
 
+There is two commands for copy file from **GitHub**. 
+
+If you have no account on site, you can copy link behind file, go to you local repository, and use `git clone "link"`
+
+After that you need to change directory:
+           
+    cd "nameofyouractualfile" 
+Or, if you authorised on **GitHub**, you can copy needed project to your repository on site with comand `fork`.
+
+
 ## Push&Pull
 
 ## Pull Request
-
