@@ -14,7 +14,7 @@ After that you need to change directory:
     cd "nameofyouractualfile" 
 Or, if you authorised on **GitHub**, you can copy needed project to your repository on site with comand `fork`.
 
-
 ## Push&Pull
+Comand `git pull` makes copy of outsoursed repository to your local. Mane point is merging your actual data with new information. 
 
-## Pull Request
+`git push` makes your changes delivered to outsoursed repository. You must be authorised in site, where repository is.
